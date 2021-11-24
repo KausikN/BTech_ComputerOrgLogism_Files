@@ -1,10 +1,10 @@
-# BTech_ComputerOrgLogism_Files
+# BTech Computer Organisation Logism Files
 
-:book: Academic Files and Codes
+📖 Academic Files and Codes
 
 ## Institute
 
-:student: B.Tech (H), IIITDM Kancheepuram
+🧑‍🎓 B.Tech (H), IIITDM Kancheepuram
 
 ## Course
 
